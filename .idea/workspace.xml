@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="38d37efc-d528-44f1-8dad-c6ad0eaaf9ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exo 1/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo 2/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo 3/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo 4/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 1/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 2/script2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 3/script3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 4/script4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,18 +23,45 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1kVURtJvPl2ymuHIG1WfZ0P0NVF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="vue.rearranger.settings.migration" value="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Wendy/PhpstormProjects/Exo-50-JS-Les-bases-variables/exo 4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Wendy\PhpstormProjects\Exo-50-JS-Les-bases-variables\exo 4" />
+      <recent name="C:\Users\Wendy\PhpstormProjects\Exo-50-JS-Les-bases-variables\exo 3" />
+      <recent name="C:\Users\Wendy\PhpstormProjects\Exo-50-JS-Les-bases-variables\exo 2" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -37,6 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605785252556</updated>
       <workItem from="1605785254971" duration="300000" />
+      <workItem from="1668679714736" duration="2552000" />
     </task>
     <servers />
   </component>
